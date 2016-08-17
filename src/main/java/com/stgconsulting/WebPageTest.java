@@ -33,7 +33,6 @@ public class WebPageTest {
     public void Initialize()
     {
         // Populate resortList HashMap
-        //
         resortList.put("beaver mountain", "Beaver Mtn");
         resortList.put("cherry peak", "Cherry Peak");
         resortList.put("nordic valley", "Nordic Valley");
